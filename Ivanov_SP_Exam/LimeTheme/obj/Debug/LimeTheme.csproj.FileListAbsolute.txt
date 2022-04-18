@@ -1,0 +1,7 @@
+D:\Developer\GitHub\SP_projects\Ivanov_SP_Exam\LimeTheme\bin\Debug\LimeTheme.dll
+D:\Developer\GitHub\SP_projects\Ivanov_SP_Exam\LimeTheme\bin\Debug\LimeTheme.pdb
+D:\Developer\GitHub\SP_projects\Ivanov_SP_Exam\LimeTheme\obj\Debug\LimeTheme.csproj.CoreCompileInputs.cache
+D:\Developer\GitHub\SP_projects\Ivanov_SP_Exam\LimeTheme\obj\Debug\LimeTheme.dll
+D:\Developer\GitHub\SP_projects\Ivanov_SP_Exam\LimeTheme\obj\Debug\LimeTheme.pdb
+D:\Developer\GitHub\SP_projects\Ivanov_SP_Exam\Ivanov_SP_Exam\bin\Debug\Plugins\LimeTheme.dll
+D:\Developer\GitHub\SP_projects\Ivanov_SP_Exam\Ivanov_SP_Exam\bin\Debug\Plugins\LimeTheme.pdb

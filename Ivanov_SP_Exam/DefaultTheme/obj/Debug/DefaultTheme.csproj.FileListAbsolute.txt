@@ -1,0 +1,7 @@
+D:\Developer\GitHub\SP_projects\Ivanov_SP_Exam\DefaultTheme\bin\Debug\DefaultTheme.dll
+D:\Developer\GitHub\SP_projects\Ivanov_SP_Exam\DefaultTheme\bin\Debug\DefaultTheme.pdb
+D:\Developer\GitHub\SP_projects\Ivanov_SP_Exam\DefaultTheme\obj\Debug\DefaultTheme.csproj.CoreCompileInputs.cache
+D:\Developer\GitHub\SP_projects\Ivanov_SP_Exam\DefaultTheme\obj\Debug\DefaultTheme.dll
+D:\Developer\GitHub\SP_projects\Ivanov_SP_Exam\DefaultTheme\obj\Debug\DefaultTheme.pdb
+D:\Developer\GitHub\SP_projects\Ivanov_SP_Exam\Ivanov_SP_Exam\bin\Debug\Plugins\DefaultTheme.dll
+D:\Developer\GitHub\SP_projects\Ivanov_SP_Exam\Ivanov_SP_Exam\bin\Debug\Plugins\DefaultTheme.pdb

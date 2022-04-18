@@ -1,0 +1,8 @@
+D:\Developer\GitHub\SP_projects\Ivanov_SP_Exam\DarkRaspberryTheme\bin\Debug\DarkRaspberryTheme.dll
+D:\Developer\GitHub\SP_projects\Ivanov_SP_Exam\DarkRaspberryTheme\bin\Debug\DarkRaspberryTheme.pdb
+D:\Developer\GitHub\SP_projects\Ivanov_SP_Exam\DarkRaspberryTheme\obj\Debug\DarkRaspberryTheme.csproj.CoreCompileInputs.cache
+D:\Developer\GitHub\SP_projects\Ivanov_SP_Exam\DarkRaspberryTheme\obj\Debug\DarkRaspberryTheme.dll
+D:\Developer\GitHub\SP_projects\Ivanov_SP_Exam\DarkRaspberryTheme\obj\Debug\DarkRaspberryTheme.pdb
+D:\Developer\GitHub\SP_projects\Ivanov_SP_Exam\Ivanov_SP_Exam\bin\Debug\Plugins\DarkRaspberryTheme.dll
+D:\Developer\GitHub\SP_projects\Ivanov_SP_Exam\Ivanov_SP_Exam\bin\Debug\Plugins\DarkRaspberryTheme.pdb
+D:\Developer\GitHub\SP_projects\Ivanov_SP_Exam\DarkRaspberryTheme\obj\Debug\DarkRaspberryTheme.csproj.AssemblyReference.cache
